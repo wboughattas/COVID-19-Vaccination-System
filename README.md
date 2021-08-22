@@ -27,3 +27,9 @@ transactions, and dozens tuples of each query result.
 * **Nicholas Nagy** - [NicholasNagy](https://github.com/NicholasNagy)
 * **Michael Junior Osuji** - [imaique](https://github.com/imaique)
 * **Malek Jerbi**
+
+## Entity relationship diagram
+![](https://github.com/wboughattas/COVID-19-Vaccination-System/blob/main/COVID-19%20Vaccination%20System/ERD.svg)
+
+## Relational diagram
+![](https://github.com/wboughattas/COVID-19-Vaccination-System/blob/main/COVID-19%20Vaccination%20System/Relations.svg)
